@@ -5,7 +5,7 @@
 创建其他skill的skill：https://github.com/anthropics/skills/tree/main/skills/skill-creator
 
 文档处理
-pdf：https://github.com/anthropics/skills/tree/main/skills/pdf
+pdf：https://github.com/anthropics/skills/tree/main/skills/pdf \
 docx：https://github.com/anthropics/skills/tree/main/skills/docx
 pptx：https://github.com/anthropics/skills/tree/main/skills/pptx
 excel：https://github.com/anthropics/skills/tree/main/skills/xlsx
